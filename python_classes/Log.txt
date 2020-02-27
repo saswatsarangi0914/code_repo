@@ -1,0 +1,12 @@
+firsname and lastname created
+Account Created Successfully for Saswat
+Account Created Successfully for Saswat
+Account Created Successfully for Saswat
+Balance checked at 0.0
+Account Created Successfully for Saswat
+Balance post deposit 40.0
+Balance checked at 40.0
+Account Created Successfully for Saswat
+Balance post deposit 40.0
+Balance post withdrawal 20.0
+Balance checked at 20.0
