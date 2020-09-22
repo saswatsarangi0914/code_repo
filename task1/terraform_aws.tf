@@ -1,6 +1,6 @@
 provider "aws" {
   region                  = var.region
-  shared_credentials_file = "C:/Users/saswat.sarangi/.aws/credentials"
+  shared_credentials_file = ""
   profile                 = "saswatAdmin"
 }
 resource "aws_key_pair" "example" {
